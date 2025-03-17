@@ -23,7 +23,7 @@ Interface made with CustomTkinter and overfast-api that creates cards of every o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Viniciusmq25/Overwatch-API-CustomTkinter
+git clone https://github.com/Viniciusmq25/Overwatch-API-CustomTkinter.git
 cd Overwatch-API-CustomTkinter
 ```
 
